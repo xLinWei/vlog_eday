@@ -87,3 +87,6 @@ endmodule
 
 ### 5.LFSR计数器
 线性反馈计数器，能够产生伪随机序列,序列个数跟线性反馈移位寄存器的设计有关，不一定是2^n-1。后面会详细介绍。
+
+仿真波形如下：
+<div align=center><img src=result.png width=80%></div>
