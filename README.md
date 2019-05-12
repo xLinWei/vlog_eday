@@ -17,31 +17,31 @@
 
 ## Content
 
-- [day1:进制与编码](./vlog_eday/day1/vlog_day1.md)
+- [day1:进制与编码](./vlog_eday/day01/vlog_day1.md)
 ：进制简介/BCD编码
 
-- [day2:组合逻辑](./vlog_eday/day2/vlog_day2.md)
+- [day2:组合逻辑](./vlog_eday/day02/vlog_day2.md)
 ：基本逻辑/组合逻辑
 
-- [day3:边沿检测](./vlog_eday/day3/vlog_day3.md)
+- [day3:边沿检测](./vlog_eday/day03/vlog_day3.md)
 ：同步边沿检测/异步边沿检测
 
-- [day4:加法器](./vlog_eday/day4/vlog_day4.md)
+- [day4:加法器](./vlog_eday/day04/vlog_day4.md)
 ：半加器/全加器/行波进位加法器/溢出检测
 
-- [day5:计数器](./vlog_eday/day5/vlog_day5.md)
+- [day5:计数器](./vlog_eday/day05/vlog_day5.md)
 ：二进制计数器/环形计数器/约翰逊计数器/格雷码计数器
 
-- [day6:按键去抖动](./vlog_eday/day6/vlog_day6.md)
+- [day6:按键去抖动](./vlog_eday/day06/vlog_day6.md)
 ：按键去抖动
 
-- [day7:格雷码](./vlog_eday/day7/vlog_day7.md)
+- [day7:格雷码](./vlog_eday/day07/vlog_day7.md)
 ：Bin2Gray/Gray2bin
 
-- [day8:LFSR](./vlog_eday/day8/vlog_day8.md)
+- [day8:LFSR](./vlog_eday/day08/vlog_day8.md)
 ：斐波那契LFSR/伽罗瓦LFSR/LFSR计数器
 
-- [day9:校验码](./vlog_eday/day9/vlog_day9.md)
+- [day9:校验码](./vlog_eday/day09/vlog_day9.md)
 ：奇偶校验/CRC校验
 
 - [day10:译码和编码](./vlog_eday/day10/vlog_day10.md)
