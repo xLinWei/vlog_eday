@@ -31,7 +31,7 @@ end
 
 一个简单的办法是：**在always块内部开始时为变量分配默认值。**
 
-如下示例所示(示例来自[HDLbits](https://hdlbits.01xz.net/wiki/Always_nolatches))，在always块开始时为所有输出分配默认值。这种书写方式可以保证输出总是被默认值驱动，除非case分支有被赋值。这样就没有必要在case的所有分支里为4个输出全部赋值，简化了代码书写。
+如下示例所示(示例来自[HDLbits](https://hdlbits.01xz.net/wiki/Always_nolatches))，在always块开始时为所有输出分配默认值。这种书写方式可以保证输出总是被默认值驱动，除非case分支有被赋值。这样就没有必要在case的所有分支里为4个输出全部赋值，**简化了代码书写**。
 ```verilog
 module top_module (
     input [15:0] scancode,
@@ -41,7 +41,7 @@ module top_module (
     output reg up  ); 
     
     always@(*)begin
-       left=0;down=0;right=0;up=0;
+       left=0;down=0;right=0;up=0;//设置默认值
         case(scancode)
             16'he06b:left=1;
             16'he072:down=1;
