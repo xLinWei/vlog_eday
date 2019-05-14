@@ -52,3 +52,6 @@
 
 - [day12:复位](./vlog_eday/day12/vlog_day12.md)
 ：同步复位/异步复位/异步复位同步释放
+
+- [day13:锁存器](./vlog_eday/day13/vlog_day13.md)
+：避免锁存器的代码书写规范
