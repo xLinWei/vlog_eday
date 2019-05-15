@@ -55,3 +55,6 @@
 
 - [day13:锁存器](./vlog_eday/day13/vlog_day13.md)
 ：避免锁存器的代码书写规范
+
+- [day14:BCD加法器](./vlog_eday/day14/vlog_day14.md)
+：BCD加法器/`a[base-:width]`结构的使用
