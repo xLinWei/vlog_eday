@@ -46,3 +46,9 @@ The repository is the code of vlog_eday, if you want to read the discripton file
 
 - [day14:BCD加法器](https://xlinwei.github.io/docs/vlog_eday/vlog_day14.html)
 ：BCD加法器/`a[base-:width]`结构的使用
+
+- [day15:Mux选择器](https://xlinwei.github.io/docs/vlog_eday/vlog_day15.html)
+：向量索引in[sel]实现选择器/bit切片确定固定宽度
+
+- [day16:有限状态机](https://xlinwei.github.io/docs/vlog_eday/vlog_day16.html)
+：状态机分类/状态机的3种写法
