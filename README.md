@@ -52,3 +52,9 @@ The repository is the code of vlog_eday, if you want to read the discripton file
 
 - [day16:有限状态机](https://xlinwei.github.io/docs/vlog_eday/vlog_day16.html)
 ：状态机分类/状态机的3种写法
+
+- [day17:亚稳态](https://xlinwei.github.io/docs/vlog_eday/vlog_day17.html)
+：亚稳态是什么/为什么需要建立保持时间
+
+- [day18:同步FIFO](https://xlinwei.github.io/docs/vlog_eday/vlog_day18.html)
+：同步FIFO的代码

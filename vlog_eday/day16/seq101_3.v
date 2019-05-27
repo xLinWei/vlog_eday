@@ -1,4 +1,4 @@
-//101序列检测器：两段式
+//101序列检测器：三段式
 module seq101_3(
 	input clk,rst,in,
 	output reg out
