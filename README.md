@@ -58,3 +58,9 @@ The repository is the code of vlog_eday, if you want to read the discripton file
 
 - [day18:同步FIFO](https://xlinwei.github.io/docs/vlog_eday/vlog_day18.html)
 ：同步FIFO的代码
+
+- [day19:同步技术](https://xlinwei.github.io/docs/vlog_eday/vlog_day19.html)
+：两级触发器/脉冲同步器
+
+- [day20:异步FIFO](https://xlinwei.github.io/docs/vlog_eday/vlog_day20.html)
+：异步FIFO代码
